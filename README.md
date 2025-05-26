@@ -1,6 +1,7 @@
+
 # 4.Execution_of_NetworkCommands
-### NAME: VISHWA V
-### REG NO:212224110062
+### NAME: KISHORE KAVIN S
+### REG NO:212224230132
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
